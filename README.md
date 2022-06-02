@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack Web Devloper**
 
-- 👯 I’m looking to collaborate on **Reputed Company**
+- 👯 I’m looking to collaborate on **Uboric.com**
 
 - 👨‍💻 All of my projects are available at [https://fantastic-torrone-e135e1.netlify.app](https://fantastic-torrone-e135e1.netlify.app)
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/prabin8144/pen/JjMRJzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@prabin8144" height="30" width="40" /></a>
+<a href="https://codepen.io/@prabin8144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@prabin8144" height="30" width="40" /></a>
 <a href="https://twitter.com/@kprabina123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kprabina123" height="30" width="40" /></a>
-<a href="https://instagram.com/open_heart_pravven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="open_heart_pravven" height="30" width="40" /></a>
-  <a href="https://instagram.com/open_heart_pravven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkidin.svg" alt="open_heart_pravven" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/k-prabina123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/k-prabina123" height="30" width="40" /></a>
+<a href="https://instagram.com/open_heart_praveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="open_heart_praveen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
