@@ -20,6 +20,7 @@
 <a href="https://codepen.io/prabin8144/pen/JjMRJzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@prabin8144" height="30" width="40" /></a>
 <a href="https://twitter.com/@kprabina123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kprabina123" height="30" width="40" /></a>
 <a href="https://instagram.com/open_heart_pravven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="open_heart_pravven" height="30" width="40" /></a>
+  <a href="https://instagram.com/open_heart_pravven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkidin.svg" alt="open_heart_pravven" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
