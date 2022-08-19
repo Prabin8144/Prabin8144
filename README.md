@@ -1,17 +1,27 @@
+![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
 <h1 align="center">Hi 👋, I'm K Prabina Choudhury</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabin8144" alt="prabin8144" /></a> </p>
+<h3 align="center">Full-stack web developer trained in HTML, CSS, JavaScript,React.JS,Mongodb and MERN stack. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
+
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangamk04&label=Profile%20views&color=0e75b6&style=flat" alt="sangamk04" /> </p>
+
+<p align="left"> <a href="https://twitter.com/@sangamsingh04" target="blank"><img src="https://img.shields.io/twitter/follow/@sangamsingh04?logo=twitter&style=for-the-badge" alt="@sangamsingh04" /></a> </p>
 
 - 🌱 I’m currently learning **Fullstack Web Devloper**
-
+  
+- 👯 I’m looking to collaborate on **Any project**
 - 👨‍💻 All of my projects are available at [https://fantastic-torrone-e135e1.netlify.app](https://fantastic-torrone-e135e1.netlify.app)
 
-- 💬 Ask me about **React.js, JavaScript, Bootstrap,**
+- 💬 Ask me about **React.JS, JavaScript, Chakra UI,Mongodb**
 
 - 📫 How to reach me **k.prabina2000@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1y57dITDtVmVEYQN_WDICYbVDbQlF920Z/edit](https://docs.google.com/document/d/1y57dITDtVmVEYQN_WDICYbVDbQlF920Z/edit)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-I21ZAB2v3YOFgl2hPSLq87rb1Uu9LVX/view?usp=sharing](https://drive.google.com/file/d/1-I21ZAB2v3YOFgl2hPSLq87rb1Uu9LVX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
