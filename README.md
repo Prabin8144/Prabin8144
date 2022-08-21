@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **k.prabina2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-I21ZAB2v3YOFgl2hPSLq87rb1Uu9LVX/view?usp=sharing](https://drive.google.com/file/d/1-I21ZAB2v3YOFgl2hPSLq87rb1Uu9LVX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XFT8LDu0ZUvSAwdNl0qd1XISvwDb_o2X/view](https://drive.google.com/file/d/1XFT8LDu0ZUvSAwdNl0qd1XISvwDb_o2X/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
