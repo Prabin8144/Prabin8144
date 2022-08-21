@@ -15,13 +15,13 @@
 - 🌱 I’m currently learning **Fullstack Web Devloper**
   
 - 👯 I’m looking to collaborate on **Any project**
-- 👨‍💻 All of my projects are available at [https://kprabina-choudhury-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kprabina-choudhury-portfolio.netlify.app/](https://kprabina-choudhury-portfolio.netlify.app/)
 
 - 💬 Ask me about **React.JS, JavaScript, Chakra UI,MongoDb**
 
 - 📫 How to reach me **k.prabina2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XFT8LDu0ZUvSAwdNl0qd1XISvwDb_o2X/view](https://drive.google.com/file/d/1XFT8LDu0ZUvSAwdNl0qd1XISvwDb_o2X/view)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1ftVSmX105pi56aHg4aCRIrzGoN-kvQS5](https://drive.google.com/drive/u/1/folders/1ftVSmX105pi56aHg4aCRIrzGoN-kvQS5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
