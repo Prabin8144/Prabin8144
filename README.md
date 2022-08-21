@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Fullstack Web Devloper**
   
 - 👯 I’m looking to collaborate on **Any project**
-- 👨‍💻 All of my projects are available at [https://kprabina-portfolio-app.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kprabina-choudhury-portfolio.netlify.app/)
 
 - 💬 Ask me about **React.JS, JavaScript, Chakra UI,MongoDb**
 
